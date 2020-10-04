@@ -1,0 +1,29 @@
+Сертификации:
+1.PMI-PBA
+2.BCS BA
+3.CSPO - Certified Scrum Product Owner
+4.CSM - Certified Scrum Master
+5.PSM - Professional Scrum Master
+6.PSPO - Professional Scrum Product Owner
+7.Agile Certified Professional
+8.ICAgile Certified Professional
+9.SAFe 4 Certified Agilist
+10.Business Analysis Certificate Program (BACP)
+11.OMG UML
+12.OMG BPMN
+13.PMP
+14.ICP-APO
+15.ICP-PPM
+16.ICP-APM
+17.ICP-ATF 
+18.ICP-DAS
+19.KMP
+20.SPS
+21.ITIL v3 Foundation Certified
+22.Hybris v6 Certified
+23.LeSS
+24.Certified SAP Hybris Commerce Business Analyst
+
+I.scrum.org - professional scrum product owner (PSPO)
+II.Scrum Alliance
+
